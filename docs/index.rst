@@ -12,11 +12,12 @@ Welcome to the Flask User API documentation portal.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
+
    introduction
    installation
    architecture
    api
    models
    errors
+   security
 
